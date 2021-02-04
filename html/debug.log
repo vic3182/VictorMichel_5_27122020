@@ -1,0 +1,8 @@
+[0108/103947.108:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0108/231427.639:ERROR:process_info.cc(359)] UncheckedAllocate
+[0118/155822.043:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0125/121851.797:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0126/093031.808:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0126/093031.810:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0126/093031.810:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0126/093031.818:ERROR:exception_snapshot_win.cc(99)] thread ID 51580 not found in process
